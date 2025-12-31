@@ -1,4 +1,4 @@
-# University Student Clusters Dashboard
+# An AI-based Roommate Matching System for University Dormitories
 
 A comprehensive Streamlit application for university administrators to analyze student clustering results, allocate dormitory rooms, and explore student data through interactive visualizations.
 
